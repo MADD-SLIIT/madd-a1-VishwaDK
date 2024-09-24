@@ -1,3 +1,33 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Docnet</string>
+    <string name="get_started">Get Started</string>
+    <string name="sign_in">Sign In</string>
+    <string name="welcome_back">Hi! Welcome back, you’ve been missed</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="google_login">google_login</string>
+    <string name="facebook_login">facebook_login</string>
+    <string name="apple_login">apple_login\n</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="dont_have_account_sign_up">Don’t have an account?Sign Up</string>
+    <string name="or_sign_in_with">Or sign in with</string>
+    <string name="create_account">Create Account</string>
+    <string name="fill_info_below">Fill your information below</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="agree_with"><![CDATA[Agree with]]></string>
+    <string name="already_have_account">Don’t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="app_logo">app logo</string>
+    <string name="search_health_issues">Search health issue.......</string>
+    <string name="categories">Categories</string>
+    <string name="dentistry">Dentistry</string>
+    <string name="view_more">View More</string>
+    <string name="today_appointment">Today Appointment</string>
+    <string name="cardiology">Cardiology</string>
+    <string name="pulmonology">Pulmonology</string>
+    <string name="general">General</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="upcoming">Upcoming</string>
 </resources>
